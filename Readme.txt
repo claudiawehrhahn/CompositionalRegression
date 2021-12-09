@@ -6,6 +6,7 @@ General description
 - 3. described how to run the DMBPP model using the nimble R package. Its usage is illustrated for one of the simulated data sets, but is simple to adapt for other data sets.
 
 
+Detailed description
 1. Do R CMD SHLIB depSymplexCodeMCMC.c from console while in the directory where the depSymplexCodeMCMC.c file is. The files depSymplexCodeMCMC.o and depSymplexCodeMCMC.so should be created.
 
 2. Run wrapperDepSymplexMCMC.R for one of the simulated data sets.
